@@ -140,11 +140,6 @@ This single application provides:
 - ✅ Tumor detection analysis and insights
 - ✅ Full exploratory data analysis
 
-**To replace the link above:**
-1. Deploy `app1.py` using [Streamlit Cloud](https://streamlit.io/cloud) or another platform
-2. Replace `https://your-deployed-link-here.streamlit.app` with your actual deployed URL
-3. Users can access all projects from a single dashboard!
-
 ---
 
 ## 📊 Key Features
