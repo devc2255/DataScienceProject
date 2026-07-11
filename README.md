@@ -227,8 +227,7 @@ For questions or issues:
 
 ## 📄 License
 
-This project is open for educational and personal use. Feel free to use and modify these projects for learning purposes.
-
+This project is licensed under the MIT License. See `LICENSE` for details.
 ---
 
 **Last Updated:** June 2024
