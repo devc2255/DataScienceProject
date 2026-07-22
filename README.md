@@ -130,7 +130,7 @@ This launches an interactive web application showcasing all three projects with:
 
 Access all three projects through our unified web application:
 
-**[🔗 View Live Dashboard](https://datascienceproject-v791.onrender.com)**
+**[🔗 View Live Dashboard](https://interactive-data-science-portfolio.onrender.com)**
 
 This single application provides:
 - ✅ Interactive navigation between all 3 projects
